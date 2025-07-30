@@ -1,0 +1,64 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.11.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE
+-d
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\doc\Hogwarts.html...
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:53: warning - @param argument "MagicWand" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:87: warning - @param argument "the" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:88: warning - @param argument "the" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:99: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:114: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:138: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:156: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:157: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:165: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:166: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:167: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:194: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:240: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:252: warning - @param argument "turn" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:267: warning - @param argument "turn" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:268: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:285: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:306: warning - @param argument "character" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:307: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:338: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:364: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:391: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:415: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:443: warning - @param argument "printWriter" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:462: warning - @param argument "the" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:479: warning - @param argument "the" is not a parameter name.
+C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\Hogwarts.java:480: warning - @param argument "printWriter" is not a parameter name.
+Generating C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\doc\package-summary.html...
+Generating C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\doc\allclasses.html...
+Generating C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\doc\allclasses.html...
+Generating C:\Users\carlo\Desktop\Clase\Uni\Segundo\Cuatri 1\DP\PROJECT\POTTER'S DARE\doc\index.html...
+27 warnings
