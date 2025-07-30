@@ -149,8 +149,8 @@ public abstract class Potion extends Character {
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/carlos-cambero/Potter's-Dare.git
-cd "Potter's-Dare"
+git clone https://github.com/CCamberoR/Potter-s-Dare.git
+cd "Potter-s-Dare"
 ```
 
 2. **Abrir en BlueJ:**
